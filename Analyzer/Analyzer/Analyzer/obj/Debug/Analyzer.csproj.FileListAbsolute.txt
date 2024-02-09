@@ -1,0 +1,9 @@
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Dev\flang\other\Лера\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
